@@ -40,7 +40,7 @@ Aplicar conceitos de usabilidade, psicologia do design e heurísticas de Nielsen
 * GitHub (hospedagem do projeto)
 
 ## 📷 Imagens
-![Wireframe](./images/wireframe.png)
+![Wireframe](./imagens/Wireframe medio photocard.png)
 
 ## 🔗 Link do protótipo
 (https://www.figma.com/proto/EgTjd90sIHrLQPTBKvRcZq/Wireframes-Kit---Free-wireframing-Websites-and-SaaS-UI-UX--Community-?node-id=3124-4853&p=f&viewport=-229%2C174%2C0.35&t=gjRpl58DPnHjGE4Z-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3124%3A4853&page-id=1140%3A6414)
